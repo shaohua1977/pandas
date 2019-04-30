@@ -1,2 +1,2 @@
-# python
-我学习python用的一些笔记
+# 我学习python用的一些笔记
+
