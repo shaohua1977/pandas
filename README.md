@@ -1,2 +1,2 @@
-# pandas
-学习pandas的笔记
+# python
+我学习python用的一些笔记
